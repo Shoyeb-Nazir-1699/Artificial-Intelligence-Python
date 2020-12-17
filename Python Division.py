@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 13 20:41:37 2020
-
-@author: Imam
-"""
-
 def integer_division(a, b):
     result = a // b
     return result
