@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 13 20:47:46 2020
-
-@author: Imam
-"""
 
 def summetion(a, b):
     result = a + b
