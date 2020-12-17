@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 13 22:29:01 2020
-
-@author: Imam
-"""
-
 import pandas as pd
 from scipy.interpolate import interp1d
 
