@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 14 11:27:59 2020
-
-@author: Imam
-"""
-
 import sys
 from scipy.interpolate import UnivariateSpline
 n = int(sys.stdin.readline())
